@@ -6,5 +6,9 @@ US Department of Energy GeoVision project. [https://www.energy.gov/eere/geotherm
 
 Utah Forge geothermal test site. [https://utahforge.com/](https://utahforge.com/)
 
+200°C to 500°C is the temperature range of interest.
+
+
+
 
 
