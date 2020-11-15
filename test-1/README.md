@@ -1,4 +1,4 @@
 # Drilling Electronics
 
-Various thoughts on drilling electronics, mostly contained in the subpages.
+New page added on gitbook, 8:10am.
 
