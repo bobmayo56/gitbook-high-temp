@@ -8,3 +8,7 @@
 
 US Patent 4,550,610, 1985 - EP Eernisse  - A quartz resonator pressure transducer includes a generally disc-shaped … [https://patents.google.com/patent/US4550610A/en](https://patents.google.com/patent/US4550610A/en)
 
+"The "IMPACT" series of Gefran are pressure transmitters, without transmission fluid, for using in high temperature environment \(350°C\)." -- [https://www.gefran.com/en/products/226-in-impact-fluid-free-voltage-output](https://www.gefran.com/en/products/226-in-impact-fluid-free-voltage-output)
+
+
+
