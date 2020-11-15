@@ -4,7 +4,5 @@
 
 "A fluxgate magnetometer consists of a small magnetically susceptible core wrapped by two coils of wire" -- [https://en.wikipedia.org/wiki/Magnetometer\#Fluxgate\_magnetometer](https://en.wikipedia.org/wiki/Magnetometer#Fluxgate_magnetometer)
 
-MEMS. "Development of Resonant Magnetic Field Microsensors: Challenges and Future Applications", [https://www.intechopen.com/books/microsensors/development-of-resonant-magnetic-field-microsensors-challenges-and-future-applications](https://www.intechopen.com/books/microsensors/development-of-resonant-magnetic-field-microsensors-challenges-and-future-applications)
-
 
 

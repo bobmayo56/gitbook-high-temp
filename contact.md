@@ -4,5 +4,5 @@ I would be happy to hear from you. My email is listed at [https://www.bobmayo.co
 
 
 
-[https://us02web.zoom.us/j/81590486838](https://us02web.zoom.us/j/81590486838)
+
 
