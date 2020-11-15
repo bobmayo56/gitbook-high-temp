@@ -6,9 +6,5 @@
 
 "tools that we build don't exceed 175C. I believe that is the generally accepted hottest we need for US wells. I have seen a few 200C designs but they are so cost prohibitive they are rarely used" -- personal communication from someone in the drilling industry
 
-"[Resonator pressure transducer](https://patents.google.com/patent/US4550610A/en)
-
-EP **Eernisse** - US Patent 4,550,610, 1985 - Google PatentsA quartz resonator pressure transducer includes a generally disc-shaped resonator section,  
-a housing surrounding the resonator section and joined to the perimeter thereof, with the  
-walls of the housing extending in opposite directions generally normal to the plane of the … [https://patents.google.com/patent/US4550610A/en](https://patents.google.com/patent/US4550610A/en)
+US Patent 4,550,610, 1985 - EP Eernisse  - A quartz resonator pressure transducer includes a generally disc-shaped … [https://patents.google.com/patent/US4550610A/en](https://patents.google.com/patent/US4550610A/en)
 
