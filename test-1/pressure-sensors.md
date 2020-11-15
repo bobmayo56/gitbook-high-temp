@@ -2,6 +2,8 @@
 
 "High Temperature \(800°C\) MEMS Pressure Sensor Development Including Reusable Packaging for Rocket Engine Applications" -- [https://asmedigitalcollection.asme.org/CANEUS/proceedings-abstract/CANEUS2006/42541/287/316165](https://asmedigitalcollection.asme.org/CANEUS/proceedings-abstract/CANEUS2006/42541/287/316165)
 
+Model: 176M09 from PCB Piezoelectronics. [https://www.pcb.com/products?m=176M09](https://www.pcb.com/products?m=176M09)  \(Sensor appears to work to 530C, but "receptacle" only goes to 260C\). 
+
 "The "IMPACT" series of Gefran are pressure transmitters, without transmission fluid, for using in high temperature environment \(350°C\)." -- [https://www.gefran.com/en/products/226-in-impact-fluid-free-voltage-output](https://www.gefran.com/en/products/226-in-impact-fluid-free-voltage-output)
 
 "Our Quartz technology, combined with our expertise in high temperature circuits and custom ASICs, provides an unmatched pressure and temperature sensor for downhole oil and gas." -- [http://www.quartzdyne.com](http://www.quartzdyne.com)
