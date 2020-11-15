@@ -11,6 +11,8 @@
   * [Magnetometers](test-1/magnetometers.md)
   * [Temperature Sensors](test-1/temperature-sensors.md)
   * [Pressure Sensors](test-1/pressure-sensors.md)
+* [Packaging](packaging.md)
+* [Telemetry](telemetry.md)
 * [Available Parts](available-parts.md)
 * [Contact](contact.md)
 

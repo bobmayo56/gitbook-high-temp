@@ -1,8 +1,10 @@
 # Sensors
 
-Various thoughts on drilling electronics. This section also contains separate sub-pages with details.
+Various notes on high temperature sensors. There are a few sub-pages on specific topics.
 
-Some quotes:
+Some notes:
+
+US Department of Energy: "Advanced Sensors and Instrumentation \(ASI\) includes research to develop advanced sensors, instrumentation and controls that address critical technology gaps for monitoring and controlling existing and advanced reactors and supporting fuel cycle development. " -- [https://www.energy.gov/ne/nuclear-energy-enabling-technologies/advanced-sensors-and-instrumentation](https://www.energy.gov/ne/nuclear-energy-enabling-technologies/advanced-sensors-and-instrumentation)
 
 "Tools that we build don't exceed 175C. I believe that is the generally accepted hottest we need for US wells. I have seen a few 200C designs but they are so cost prohibitive they are rarely used" -- personal communication from someone in the drilling industry, November 2020.
 
