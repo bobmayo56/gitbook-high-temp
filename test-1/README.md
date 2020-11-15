@@ -1,4 +1,4 @@
-# Drilling Electronics
+# Sensors
 
 Various thoughts on drilling electronics. This section also contains separate sub-pages with details.
 
