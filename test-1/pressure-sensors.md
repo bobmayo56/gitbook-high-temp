@@ -1,4 +1,4 @@
 # Pressure Sensors
 
-"Quartzdyne has been the world leader in designing, developing, and manufacturing the industry-standard resonating quartz pressure transducer for the downhole oil and gas industry" -- [http://www.quartzdyne.com](http://www.quartzdyne.com)
+"Our Quartz technology, combined with our expertise in high temperature circuits and custom ASICs, provides an unmatched pressure and temperature sensor for downhole oil and gas." -- [http://www.quartzdyne.com](http://www.quartzdyne.com)
 
