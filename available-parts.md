@@ -12,7 +12,7 @@ Here are some example parts to look at for different temperature ranges. The 70C
 
 | Part | 70C | 150C | 200C | 300C | 400C | 500C |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Notes | Adafruit, Sparkfun, Digikey | Digikey, Arrow | Digikey, Arrow | Digikey, Arrow |  | NASA Glenn SiC |
+| Notes / Suppliers | Adafruit, Sparkfun, Digikey | Digikey, Arrow | Digikey, Arrow | Digikey, Arrow |  | NASA Glenn SiC |
 | Transistor | MMBFJ201 | SiC UJ3N0650-80K3S | Central Semi 2N4858 |  |  | SiC JFET |
 | Resistor | CR0201AFW | CR10682J | SMF212KJT | CHR0805H |  | SiC n-layer |
 | Capacitor | C0402C102-K5RAC7411 | C0603C180-K4HAC7867 | AT143T105-KA12A |  |  | SiC m1-m2 |
