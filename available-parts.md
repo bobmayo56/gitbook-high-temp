@@ -8,18 +8,19 @@ I'll list some parts here.
 
 ## Table
 
-Here are notes on essential parts for different temperature ranges. The 70C parts are for hobbyists that want an easy intro to how that type of part works.
+Here are some parts to look at for different temperature ranges. The 70C parts are for hobbyists that want an easy intro to how that type of part works.
 
 | Part | 70C | 150C | 200C | 300C | 400C | 500C |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Voltage Reference | 3.3V regulator, or LM4040 | 500C\[1\] |  |  |  |  |
+| Notes | Adafruit, Sparkfun, Digikey |  |  |  |  | NASA Glenn SiC |
+| Transistor | MMBFJ201 | SiC UJ3N065080K3S | Central Semi 2N4858 |  |  | SiC JFET |
+| Resistor | CR0201AFW | CR10682J | SMF212KJT | CHR0805H |  | SiC n-layer |
+| Capacitor |  |  |  |  |  | SiC m1-m2 |
+| Voltage Reference | 3.3V regulator, or LM4040 | LT6654BX | REF5025-HT |  |  | SiC bandgap reference |
 | Resonator/Oscillator | Si5351A |  |  |  |  |  |
 | OpAmp | TLV2462 |  |  |  |  | SiC OpAmp |
 | ADC | ADS1015 | ADS8509-HT | ADS1243-HT |  |  | SiC 4-bit |
-
-Notes \| Adafruit, Sparkfun, Digikey \| \| \| \| \| \| NASA Glenn SiC
-
-Transistor \|  \| SiC UJ3N065080K3S \| Central Semi 2N4858 \| \| \| SiC JFET
+|  |  |  |  |  |  |  |
 
 DAC \| MCP4725 \| \| \| \| \| SiC 4-bit
 
