@@ -15,15 +15,19 @@ Here are notes on essential parts for different temperature ranges. The 70C part
 | Voltage Reference | 3.3V regulator, or LM4040 | 500C\[1\] |  |  |  |  |
 | Resonator/Oscillator | Si5351A |  |  |  |  |  |
 | OpAmp | TLV2462 |  |  |  |  | SiC OpAmp |
-| ADC | ADS1015 |  |  |  |  | SiC 4-bit |
+| ADC | ADS1015 | ADS8509-HT | ADS1243-HT |  |  | SiC 4-bit |
 
 Notes \| Adafruit, Sparkfun, Digikey \| \| \| \| \| \| NASA Glenn SiC
 
-DAC \| MCP4725 \| \| \| \| \| 500C 4-bit
+Transistor \|  \| SiC UJ3N065080K3S \| Central Semi 2N4858 \| \| \| SiC JFET
 
-NAND/NOR \| tinyFPGA \| \| \| \| 500C NAND
+DAC \| MCP4725 \| \| \| \| \| SiC 4-bit
 
-RAM \| tinyFPGA \| \| \| \| 500C 4x4
+NAND/NOR \| tinyFPGA \| \| \| \| SiC NAND
+
+RAM \| tinyFPGA \| \| \| \| SiC 4x4
+
+FLASH \| tinyFPGA \| \| SM28VLT32-HT \| \| \|
 
 ROM \| tinyFPGA
 
