@@ -8,15 +8,14 @@ I'll list some parts here.
 
 ## Table
 
-Part \| Example Hobbyist Parts \(70C\) \| 150C \| 200C \| 300C \| 400C \| 500C
+Here are notes on essential parts for different temperature ranges. The 70C parts are for hobbyists that want an easy intro to how that type of part works.
 
-Voltage Reference \| 3.3V regulator, or LM4040 \| 500C\[1\]
-
-Resonator/Oscilator \| Si5351A \| 
-
-Opamp \| TLV2462 \| \| \| \| 500C OpAmp
-
-ADC \| ADS1015  \| \| \| \| \| 500C 4-bit
+Part | 70C | 150C | 200C | 300C | 400C | 500C
+---- | --- | ---- | ---- | ---- | ---- | ----
+Voltage Reference | 3.3V regulator, or LM4040 | 500C\[1\]
+Resonator/Oscilator | Si5351A | 
+Opamp | TLV2462 | | | | 500C OpAmp
+ADC | ADS1015  | | | | 500C 4-bit
 
 DAC \| MCP4725  \| \| \| \| \| 500C 4-bit
 
