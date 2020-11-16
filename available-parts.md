@@ -8,33 +8,35 @@ I'll list some parts here.
 
 ## Table
 
-Part \| Example Room Temperature Hobbyist Parts \| 150C \| 200C \| 300C \| 400C \| 500C
+Part \| Example Hobbyist Parts \(70C\) \| 150C \| 200C \| 300C \| 400C \| 500C
 
-Voltage Reference \| regulator, or LM4040 \| 500C\[1\]
+Voltage Reference \| 3.3V regulator, or LM4040 \| 500C\[1\]
 
 Resonator/Oscilator \| Si5351A \| 
 
-Opamp \| TLV2462
+Opamp \| TLV2462 \| \| \| \| 500C OpAmp
 
-ADC \| ADS1015 
+ADC \| ADS1015  \| \| \| \| \| 500C 4-bit
 
-DAC \| MCP4725
+DAC \| MCP4725  \| \| \| \| \| 500C 4-bit
 
-NAND/NOR \| small FPGA
+NAND/NOR \| tinyFPGA  \| \| \| \| 500C NAND
 
-RAM \| small FPGA
+RAM \| tinyFPGA  \| \| \| \| 500C 4x4
 
-ROM \| small FPGA
+ROM \| tinyFPGA
 
-MicroController \(tiny\) \| PIC10F200
+Tiny MicroController \| PIC10F200
 
-Microprocessor \(8051\) \| 80C51
+Small Microprocessor \| AT80C51RD2
+
+Large Microprocessor \| Arduino
 
 Temperature Sensor \| MAX30208
 
 Pressure Sensor \| LPS22
 
-Accelerometer \| MMA8451
+Accelerator \| MMA8451
 
 Gyroscope \|ISM330DHCX
 
