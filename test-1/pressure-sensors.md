@@ -12,7 +12,7 @@ Model: 176M09 from PCB Piezoelectronics. [https://www.pcb.com/products?m=176M09]
 
 US Patent 4,550,610, 1985 - EP Eernisse  - A quartz resonator pressure transducer includes a generally disc-shaped … [https://patents.google.com/patent/US4550610A/en](https://patents.google.com/patent/US4550610A/en)
 
-
+"Silicon carbide used for the new NASA technologies, rather than the traditional silicon, eliminates the need for cooling. The current generation of SiC-based pressure sensors has been demonstrated to operate for 130 hours at 600 degrees C", [https://www.automation.com/en-us/articles/2007-2/endevco-licenses-nasa-technology-for-new-silicon-c](https://www.automation.com/en-us/articles/2007-2/endevco-licenses-nasa-technology-for-new-silicon-c)
 
 
 
