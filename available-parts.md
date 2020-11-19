@@ -16,7 +16,7 @@ Here are some example parts to look at for different temperature ranges. The 70C
 | Transistor | MMBFJ201 | UJ3N0650-80K3S \(SiC\) | Central Semi 2N4858 |  |  | SiC JFET |
 | Resistor | CR0201AFW | CR10682J | SMF212KJT | CHR0805H |  | SiC n-layer |
 | Capacitor | C0402C102-K5RAC7411 | C0603C180-K4HAC7867 | AT143T105-KA12A |  |  | SiC m1-m2 |
-| Voltage Reference | 3.3V regulator, or LM4040 | LT6654BX | REF5025-HT |  |  | SiC bandgap reference |
+| Voltage Reference | 3.3V regulator, or LM4040 | LT6654BX | REF5025-HT | Cissoid HELIOS - LDOP |  | SiC bandgap reference |
 | Resonator/Oscillator | Si5351A |  |  |  |  |  |
 | OpAmp | OPA2333HD | OPA2333HD | OPA2333SHKJ |  |  | SiC OpAmp |
 | Logic Gates | tinyFPGA |  |  | TK22V10H |  | SiC NAND |

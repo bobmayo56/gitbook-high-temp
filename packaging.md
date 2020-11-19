@@ -7,6 +7,8 @@
 
 "The ceramic chip-level packages used for the NASA chips have been reported previously \[8, 36–39\]. The ceramic packaging material was 96% aluminum oxide \(Al2O3\) substrate and Au thick-film metallization. The SiC devices were electrically connected to each package’s eight input/output terminals via 1 mil diameter Au wires. Chip packages were then attached to a ceramic printed circuit board also utilizing a 96% Al2O3 substrate and Au thick- film metallization." \[1\]
 
+"This paper covers the development of a geothermal ceramic circuit board technology using 3D traces in a machinable ceramic. Test results showing the circuit board to be operational to at least 550°C." _Developing 300°C Ceramic Circuit Boards_. Author: Randy A. Normann, CTO, Perma Works LLC Grant: DE-FG36-08GO10185 Report Period: January 2009 to November 2014 Date Compiled: Feb 15, 2015. [https://www.osti.gov/biblio/1170224](https://www.osti.gov/biblio/1170224)
+
 ## References
 
 \[1\] "Extreme temperature 6H-SiC JFET integrated circuit technology", [https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.200925188](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.200925188)
@@ -16,4 +18,6 @@
 \[2\] Dupont GreenTape 951 low temperature co-fired ceramic \(LTCC\) system, [https://www.dupont.com/products/greentape-951-ltcc-material-system.html](https://www.dupont.com/products/greentape-951-ltcc-material-system.html)
 
 \[3\] Dominik Jurków, Thomas Maeder, Arkadiusz Dąbrowski, Marina Santo Zarnik, Darko Belavič, Heike Bartsch, Jens Müller, Overview on low temperature co-fired ceramic sensors, Sensors and Actuators A: Physical, Volume 233, 2015, Pages 125-146, ISSN 0924-4247, [https://doi.org/10.1016/j.sna.2015.05.023](https://doi.org/10.1016/j.sna.2015.05.023). \([http://www.sciencedirect.com/science/article/pii/S0924424715300194](http://www.sciencedirect.com/science/article/pii/S0924424715300194)\)
+
+\[4\] 
 
